@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AF Trading General Ltd</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-image: url(join.png); /* Replace with your image URL */
+            background-size: contain;
+            background-position: center;
+            margin: 0;
+            padding: 0;
+            color: white; /* Change text color to improve readability on dark backgrounds */
+        }
+        header {
+            background: green; /* Semi-transparent background */
+            padding: 20px;
+            text-align: center;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
+            background:green/* White background for readability */
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+        }
+        h1 {
+            margin: 0;
+            color: white /* Dark text for headings */
+        }
+        h2 {
+            color: white;
+        }
+        p {
+            color:white;
+            line-height: 1.6;
+        }
+        .services {
+            margin: 20px 0;
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background:green ; /* Semi-transparent footer */
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+        a {
+            color: blue;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Cars shows</h1>
+        <p>Your trusted partner in trade and commerce</p>
+    </header>
+
+    <div class="container">
+        <section>
+            <h2>About Us</h2>
+            <p>Cars shows Ltd is a leading company specializing in import and export of goods worldwide. We are committed to providing exceptional service and quality products.</p>
+        </section>
+
+        <section class="services">
+            <h2>Our Services</h2>
+            <ul>
+                <li><a href="#import-export">Home</a></li>
+                <li><a href="example.html">Cars</a></li>
+                <li><a href="#market-research">contact</a></li>
+                <li><a href="#logistics">Logistics and Transportation</a></li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Contact Us</h2>
+            <p>Email: info@aftrading.com</a></p>
+            <p>Phone:+1 (123) 456-7890</a></p>
+            <p>Follow us on <a href="https://www.linkedin.com/company/aftrading" target="_blank">LinkedIn</a> | <a href="https://twitter.com/aftrading" target="_blank">Twitter</a></p>
+        </section>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 cars shows Ltd. All rights reserved.</p>
+    </footer>
+</body>
+</html>
