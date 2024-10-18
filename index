@@ -3,11 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AF Trading General Ltd</title>
+    <title>Longar Trading General Ltd</title>
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-image: url(join.png); /* Replace with your image URL */
+            background-image: url(back.jpeg); /* Replace with your image URL */
             background-size: contain;
             background-position: center;
             margin: 0;
